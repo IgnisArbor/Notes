@@ -26,7 +26,7 @@ So Mg is usually reacted with steam instead (this will probably hold true for th
  $$ Mg(s) + H_2O(g) \rightarrow MgO(s) + H_2(g) $$
 
 ### **Reaction with acids**
- ##### with hydrochloric acid:  
+ #### with hydrochloric acid:  
  $$ X(s) + 2HCl(aq) \rightarrow XCl_2(aq) + H_2(g) $$
  *Note: reactions become more vigorous down the group.*
  #### with sulfuric acid:
@@ -38,7 +38,7 @@ So Mg is usually reacted with steam instead (this will probably hold true for th
  *Note: all of these oxides are basic but BeO is actually [[Amphoteric|amphoteric]]* and that when reacting with water they form an [[Base vs Alkali|alkaline]] solution which become more alkaline down the group.
 
  ### **Reaction with acids**
- ##### with hydrochloric acid:  
+ #### with hydrochloric acid:  
  $$ XO(s) + 2HCl(aq) \rightarrow XCl_2(aq) + H_2O(l) $$
  #### with sulfuric acid:
  $$ XO(s) + H_2SO_4(aq) \rightarrow XSO_4(aq) + H_2O(l) $$
@@ -48,7 +48,7 @@ So Mg is usually reacted with steam instead (this will probably hold true for th
 
 ## Group 2 hydroxides
  ### **Reaction with acids**
- ##### with hydrochloric acid:  
+ #### with hydrochloric acid:  
  $$ X(OH)_2(s) + 2HCl(aq) \rightarrow XCl_2(aq) + 2H_2O(l) $$
  #### with sulfuric acid:
  $$ X(OH)_2(s) + H_2SO_4(aq) \rightarrow XSO_4(aq) + 2H_2O(l) $$
@@ -58,7 +58,7 @@ So Mg is usually reacted with steam instead (this will probably hold true for th
 
 ## Group 2 carbonates
  ### **Reaction with acids**
- ##### with hydrochloric acid:  
+ #### with hydrochloric acid:  
  $$ X(OH)_2(s) + 2HCl(aq) \rightarrow XCl_2(aq) + 2H_2O(l) + CO_2(g) $$
  #### with sulfuric acid:
  $$ X(OH)_2(s) + H_2SO_4(aq) \rightarrow XSO_4(aq) + 2H_2O(l) + CO_2(g) $$
@@ -69,10 +69,10 @@ So Mg is usually reacted with steam instead (this will probably hold true for th
 This is most if not all the reactions you need to know and as you can see, they're all almost the same with a few expections that aren't hard to follow (please lmk if I'm missing anything)
 
 ## Decomposition of group 2 carbonates and nitrates
- ##### heating Group 2 carbonates:
+ #### heating Group 2 carbonates:
  $$ XCO_3(s) \rightarrow XO(s) + CO_2(g) $$
  *Note: all carbonates and oxides are white solids*
- ##### heating Group 2 nitrates:
+ #### heating Group 2 nitrates:
  $$ 2X(NO_3)_2(s) \rightarrow 2XO(s) + 4NO_2(g) + O_2(g) $$
  *Note: all nitrates are white solids and that nitrogen dioxide gives off browns fumes*
 
