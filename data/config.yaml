@@ -1,5 +1,6 @@
 name: Ignis Arbor
-enableToc: false
+enableToc: true
+
 openToc: false
 enableLinkPreview: true
 enableLatex: true
@@ -11,7 +12,7 @@ description:
   Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
   Wikilink support, backlinks, local graph, tags, and link previews.
 page_title:
-  "🪴Arbor's Notes"
+  "Arbor's Notes"
 links:
   - link_name: Github
     link: https://github.com/IgnisArbor
