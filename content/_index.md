@@ -2,4 +2,4 @@
 title: My A-level notes! 
 ---
 
-> https://github.com/IgnisArbor/Notes/blob/hugo/content/Chemistry/Inorganic%20Chemistry/Group%202%20metals/Group%202%20reactions.md
+> [Group 2 reactions](Chemistry/Inorganic-Chemistry/Group-2-metals/Group-2-reactions)
