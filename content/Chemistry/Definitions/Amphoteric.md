@@ -1,0 +1,1 @@
+ Has the ability to react as both an acid and a base

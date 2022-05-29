@@ -1,0 +1,1 @@
+The only difference you need to know between a base and an alkali is that an alkali is soluble in water while bases are not. So all **alkali are bases** while not all **bases are alkali**.

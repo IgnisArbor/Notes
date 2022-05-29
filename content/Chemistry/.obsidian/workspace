@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "3f8a1e74cf6a79e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "4049bbed46df9a17",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Inorganic Chemistry/Group 2 metals/Group 2 reactions.md",
+            "mode": "source"
+          }
+        },
+        "group": "7464bacabc2a83b1"
+      },
+      {
+        "id": "946485323a7de5c9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Inorganic Chemistry/Group 2 metals/Group 2 reactions.md",
+            "mode": "preview"
+          }
+        },
+        "group": "7464bacabc2a83b1"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0e30f2c197e655ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef98c7167a02dc50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "533a02a5a42b6f4a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8d3551c14bc2439d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f5f214f513dc2398",
+    "type": "split",
+    "children": [
+      {
+        "id": "637af67651ac408d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e78006cc53a72dd0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Inorganic Chemistry/Group 2 metals/Group 2 reactions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4049bbed46df9a17",
+  "lastOpenFiles": [
+    "Inorganic Chemistry/Group 2 metals/Group 2 reactions.md",
+    "Definitions/Base vs Alkali.md",
+    "Definitions/Amphoteric.md",
+    "Organic Chemistry/Hydrocarbons/Alkanes.md",
+    "Organic Chemistry/Hydrocarbons/Alkenes.md",
+    "Organic Chemistry/Hydrocarbons/Untitled.md",
+    "Pasted image 20211019002632.png",
+    "Pasted image 20211019002635.png",
+    "Organic Chemistry/Untitled.md",
+    "Aldehydes.md"
+  ]
+}
