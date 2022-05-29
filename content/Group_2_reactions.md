@@ -5,13 +5,13 @@ I'll be going through all the reactions of Group 2 metals and any exceptions wil
 ## Group 2 elements
 
 > ### **Reaction with oxygen**
-	> $$ \ce {2X(s) + O2(g) -> 2XO(s)} $$
-	> *Note: all group 2 metals can be burn.t*
-	> 
-	> *Note 2: Sr and Ba can also react like so:*
-	> $$ \ce {X(s) + O2(g) -> XO2(s)} $$
-	> 
-	> Element | Color when burnt
+> $$ \ce {2X(s) + O2(g) -> 2XO(s)} $$
+> *Note: all group 2 metals can be burn.t*
+> 
+> *Note 2: Sr and Ba can also react like so:*
+> $$ \ce {X(s) + O2(g) -> XO2(s)} $$
+> 
+> Element | Color when burnt
 ------------ | ------------
 Be | White flame
 Mg | White flame
