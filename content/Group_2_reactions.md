@@ -10,8 +10,8 @@ I'll be going through all the reactions of Group 2 metals and any exceptions wil
 > 
 > *Note 2: Sr and Ba can also react like so:*
 > $$ \ce {X(s) + O2(g) -> XO2(s)} $$
-> 
-> | Element | Color when burnt |
+
+ | Element | Color when burnt |
 | ------------ | ------------ |
 | Be | White flame |
 | Mg | White flame |
