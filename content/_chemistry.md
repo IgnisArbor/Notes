@@ -3,4 +3,4 @@ alias: "Chemistry"
 title: My Chemistry Notes! 
 ---
 
-- [Inorganic Chemistry](_inorganic.md)
+### [Inorganic Chemistry](_inorganic.md)
