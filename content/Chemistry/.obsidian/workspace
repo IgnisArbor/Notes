@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inorganic Chemistry/Group 2 metals/Group 2 reactions.md",
+            "file": "Period_3_reactions.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inorganic Chemistry/Group 2 metals/Group 2 reactions.md",
+            "file": "Period_3_reactions.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inorganic Chemistry/Group 2 metals/Group 2 reactions.md",
+                "file": "Period_3_reactions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,8 @@
   },
   "active": "4049bbed46df9a17",
   "lastOpenFiles": [
-    "Inorganic Chemistry/Group 2 metals/Group 2 reactions.md",
+    "Period_3_reactions.md",
+    "Group_2_reactions.md",
     "Definitions/Base vs Alkali.md",
     "Definitions/Amphoteric.md",
     "Organic Chemistry/Hydrocarbons/Alkanes.md",
@@ -109,7 +110,6 @@
     "Organic Chemistry/Hydrocarbons/Untitled.md",
     "Pasted image 20211019002632.png",
     "Pasted image 20211019002635.png",
-    "Organic Chemistry/Untitled.md",
-    "Aldehydes.md"
+    "Organic Chemistry/Untitled.md"
   ]
 }
